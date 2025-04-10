@@ -1,3 +1,4 @@
+local TextChatService = game:GetService("TextChatService")
 local function SendChatMessage(message)
     if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
         local textChannel = TextChatService.TextChannels.RBXGeneral
@@ -7,5 +8,4 @@ local function SendChatMessage(message)
     end
 end
 
--- Send the chat message
 SendChatMessage("Super Ring Parts V5 By lukas")
