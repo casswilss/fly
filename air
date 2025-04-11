@@ -8,6 +8,4 @@ local function SendChatMessage(message)
     end
 end
 
-SendChatMessage("I")
-SendChatMessage("Hate")
-SendChatMessage("Cass")
+SendChatMessage("I'm Gay")
