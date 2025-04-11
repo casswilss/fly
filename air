@@ -8,14 +8,4 @@ local function SendChatMessage(message)
     end
 end
 
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
-SendChatMessage("You're Gay")
+SendChatMessage("I hate Cass")
