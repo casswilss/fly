@@ -9,3 +9,13 @@ local function SendChatMessage(message)
 end
 
 SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
+SendChatMessage("You're Gay")
