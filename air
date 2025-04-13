@@ -8,4 +8,4 @@ local function SendChatMessage(message)
     end
 end
 
-SendChatMessage("I'm Gay")
+SendChatMessage("I like little boys")
