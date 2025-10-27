@@ -8,4 +8,7 @@ local function SendChatMessage(message)
     end
 end
 
-SendChatMessage("I like little boys")
+for i = 1, 5 do
+        SendChatMessage("Hi")
+    wait(2) -- waits 2 second between messages
+end
