@@ -8,7 +8,7 @@ local function SendChatMessage(message)
     end
 end
 
-for i = 1, 5 do
+for i = 1, 3 do
         SendChatMessage("Hi")
-    wait(2) -- waits 2 second between messages
+    wait(1) -- waits 2 second between messages
 end
